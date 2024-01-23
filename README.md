@@ -1,4 +1,4 @@
-ds-portfolio
+DESCRIPTION
 ==============================
 
 A short description of the project.
