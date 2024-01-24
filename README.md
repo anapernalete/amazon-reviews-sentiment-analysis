@@ -1,7 +1,7 @@
 DESCRIPTION
 ==============================
 
-A short description of the project.
+Sentiment Analysis classifier of Amazon customer reviews and ratings with NLTK's VADER and HugginngFace Roberta Transformers. Analysis and comparative results of model outputs
 
 Project Organization
 ------------
